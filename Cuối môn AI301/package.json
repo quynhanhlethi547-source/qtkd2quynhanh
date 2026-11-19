@@ -1,0 +1,18 @@
+{
+  "name": "quynhanh-ai301-analytics",
+  "version": "1.0.0",
+  "description": "Nền tảng Phân tích Dữ liệu Kinh doanh & Báo cáo Chiến lược Quản trị Cấp cao (Môn AI301)",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo 'Build success'",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "data-analytics",
+    "business-intelligence",
+    "ai301",
+    "executive-report"
+  ],
+  "author": "QuynhAnh",
+  "license": "MIT"
+}
